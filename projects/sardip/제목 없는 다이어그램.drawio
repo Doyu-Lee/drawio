@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T08:30:16.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FHaBmfL6smFu9y4x21Gz" version="23.1.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-07T08:35:35.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="AyvxAYfE6gP_VGhQwAsB" version="23.1.1" type="github" pages="8">
   <diagram id="DGfyN4Stz_76bONhp5dC" name="컨벤션">
     <mxGraphModel dx="1914" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="로그인 검증" id="F1PuAsjFhuJ1DpmV5LUn">
-    <mxGraphModel dx="2741" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9oW8yjwk8TiLZe14XqAf-0" />
         <mxCell id="9oW8yjwk8TiLZe14XqAf-1" parent="9oW8yjwk8TiLZe14XqAf-0" />
@@ -207,7 +207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="회원가입" id="fd777ET8Wswy1TRveRwB">
-    <mxGraphModel dx="2741" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,7 +400,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="로그인" id="o1akQB6npR_T-lfp4ehC">
-    <mxGraphModel dx="3568" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="u95MiCGWCpFLF_npGtYO-0" />
         <mxCell id="u95MiCGWCpFLF_npGtYO-1" parent="u95MiCGWCpFLF_npGtYO-0" />
@@ -698,7 +698,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="회원정보 수정" id="h63CqltFdXlebir93vMX">
-    <mxGraphModel dx="2741" dy="966" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zmF6UGemjELHCQ_OiXok-0" />
         <mxCell id="zmF6UGemjELHCQ_OiXok-1" parent="zmF6UGemjELHCQ_OiXok-0" />
@@ -804,7 +804,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="로그아웃" id="0JQwhu4NzHWBMlWHeuRB">
-    <mxGraphModel dx="2741" dy="966" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="knmDYEjJoPpoB-fmWKhq-0" />
         <mxCell id="knmDYEjJoPpoB-fmWKhq-1" parent="knmDYEjJoPpoB-fmWKhq-0" />
@@ -904,7 +904,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2. 캘린더 페이지" id="cL8PP4c6E_7gl65UHz6B">
-    <mxGraphModel dx="3568" dy="966" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3398" dy="956" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3jgJFDRNgR3oacPe8akd-0" />
         <mxCell id="3jgJFDRNgR3oacPe8akd-1" parent="3jgJFDRNgR3oacPe8akd-0" />
@@ -1447,7 +1447,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3. My-Task 페이지" id="nAPGxDiRjHC508qrS4Vy">
-    <mxGraphModel dx="3568" dy="966" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WiNl3Y1n4LsgEwv6oWd5-0" />
         <mxCell id="WiNl3Y1n4LsgEwv6oWd5-1" parent="WiNl3Y1n4LsgEwv6oWd5-0" />
