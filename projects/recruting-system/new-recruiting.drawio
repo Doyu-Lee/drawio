@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T09:06:18.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="rGUSke_Szz18_TlAc9Rm" version="23.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-13T09:07:04.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FAA52BC7a-WABqg2jhfZ" version="23.1.2" type="github" pages="5">
   <diagram name="페이지-1" id="HPatkibbqnzouGyrpJ1d">
-    <mxGraphModel dx="1634" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dAQbFEndQQjNIIjsC2XM" name="메뉴">
-    <mxGraphModel dx="1634" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -679,7 +679,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="지원자 관리" id="rPZL2aAb9DEgWqgmA4S8">
-    <mxGraphModel dx="3288" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WLeRjzEfFn1-EkeONDgW-0" />
         <mxCell id="WLeRjzEfFn1-EkeONDgW-1" parent="WLeRjzEfFn1-EkeONDgW-0" />
